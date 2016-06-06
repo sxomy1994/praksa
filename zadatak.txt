@@ -1,0 +1,12 @@
+Fork    https://github.com/praksavts/praksa.git
+Dodati .gitignore file da ignorise sve exe i ini fajlove a da dozvoljava info.ini
+Ubaciti u repozitorijum sa odgovarajucom porukom
+Dodati <moje_ime>.txt u njemu broj indexa
+Ubaciti u repozitorijum sa odgovarajucom porukom
+Poslati granu master na GitHub 
+Kreirati granu <moje_ime>
+U grani <moje_ime> izmeniti fajl <moje_ime>.txt tako što ce te dodati svoje ime  u sledeci red
+Ubaciti u repozitorijum sa odgovarajucom porukom
+Poslati granu <moje_ime> na GitHub 
+Spojiti granu master sa granom <moje_ime>
+Poslati granu master na GitHub 
